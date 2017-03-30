@@ -8,8 +8,8 @@ namespace VehicleTest
 {
     public class Program
     {
-        private static Vehicle _myVehicle;
-        private static MotorVehicle _myMotorVehicle;
+        //private static Vehicle _myVehicle;
+        //private static MotorVehicle _myMotorVehicle;
 
         static void Main(string[] args)
         {
